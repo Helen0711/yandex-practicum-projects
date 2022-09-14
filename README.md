@@ -8,4 +8,4 @@
 |[Анализ рынка недвижимости Санкт-Петербурга](research_of_%20real_estate_market)|Определение рыночной стоимости объектов недвижимости и типичных параметров квартир|*Pandas, Matplotlib*|
 |[Определение выгодного тарифа для телеком компании](determining_prospective_tariff_for_telecom-company)|Анализ поведения клиентов и поиск оптимального тарифа|*Pandas, Matplotlib, NumPy, SciPy*|
 |[Изучение закономерностей, определяющих успешность игр](computer_game_%20studies)|Раскрытие закономерностей, определяющих успешность игры, используя исторические данные о продажах компьютерных игр, оценки пользователей и экспертов, жанры и платформы|*Pandas, Matplotlib, NumPy, SciPy*|
-|[Анализ убытков приложения ProcrastinatePRO+](analysis_of_business_indicators)|Проанализировать причины убыточной рекламы развлекательного приложения|*Pandas, Matplotlib, NumPy, SciPy*|
+|[Анализ убытков приложения ProcrastinatePRO+](analysis_of_business_indicators)|Анализ причин убыточной рекламы развлекательного приложения|*Pandas, Matplotlib, NumPy, SciPy*|
