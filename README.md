@@ -11,4 +11,4 @@
 |[Анализ убытков приложения ProcrastinatePRO+](analysis_of_business_indicators)|Анализ причин убыточной рекламы развлекательного приложения|*Pandas, Matplotlib, NumPy, SciPy*|
 |[Принятие решений в бизнесе](decision_making_in_business)|Проверка гипотез по увеличению выручки в интернет-магазине. Анализ А/В теста|*Pandas, Matplotlib, SciPy*|
 |[Исследование рынка заведений общественного питания Москвы](catering_market_research)|Исследование рынка общественного питания на основе открытых данных, подготовка презентации для инвесторов|*Pandas, Seaborn, Plotly, NumPy, Math*|
-
+|[Анализ пользовательского поведения в мобильном приложении](analysis_of_user_behavior_in_mobile_application)|Анализ воронки продаж на основе данных использования мобильного приложения для продажи продуктов питания.|*Pandas, Seaborn, Plotly, NumPy, Math*|
